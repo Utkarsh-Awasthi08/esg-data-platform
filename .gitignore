@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
+
+# Django
+media/
+staticfiles/
+
+# Node
+node_modules/
+dist/
+
+# Mac
+.DS_Store
+
+# Env
+.env
+
+# Vite
+.eslintcache
