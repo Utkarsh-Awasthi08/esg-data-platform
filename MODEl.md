@@ -22,6 +22,7 @@ The architecture follows a layered ingestion approach:
 4. Emission Calculation Layer
 5. Analytics Layer
 
+Currently the model includes emissions from Fuel only. However the records for other procurements and electricty can be uploaded and saved in db but emission calculation logic is only remaining. Thoroughly researched NAVAN API response for bookings. The inclusion of its API is left as I require credentials of a company for that.
 ---
 
 # Core Design Philosophy
